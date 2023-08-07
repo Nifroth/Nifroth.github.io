@@ -1,0 +1,13 @@
+p {
+  font-size: 19px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer li {
+  display: inline;
+  margin: 0 10px;
+}

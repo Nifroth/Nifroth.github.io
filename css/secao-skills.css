@@ -1,0 +1,21 @@
+.skills {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.skills ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.skills li {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 25px;
+}
+
+.skills li i {
+  margin-right: 0.5rem;
+  color: #007bff;
+}
