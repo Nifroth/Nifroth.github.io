@@ -17,6 +17,16 @@ header {
   padding: 1rem;
 }
 
+header h1 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+header p {
+  margin: 5px 0;
+}
+
 nav {
   background-color: #555;
   display: flex;
@@ -47,12 +57,14 @@ footer {
 
 .perfil {
   position: absolute;
-  top: 35px;
+  top: 10px;
   left: 30px;
+  margin-top: 10px;
 }
 
 .perfil img {
-  width: 100px;
-  height: auto;
-  border-radius: 30px;
+  width: 70px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
